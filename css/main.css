@@ -1,0 +1,21 @@
+@import url(https://fonts.googleapis.com/css?family=Slabo+27px);
+.active-link{
+
+    background-color: rgba(0, 0, 0, 0.05)!important;
+    color: #17bab8!important;
+}
+
+.material-leftbar{
+z-index: 999999999!important;
+
+}
+
+
+.center{
+    text-align: center;
+}
+.mytitle{
+    font-family: 'Slabo 27px', serif;   
+    color: #108180;
+}
+    
